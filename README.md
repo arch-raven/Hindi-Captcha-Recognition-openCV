@@ -1,31 +1,11 @@
 # Mosaic2k21
-Solution Repo for Mosaic'21
+
+Solution Repo for Mosaic'21 [PS1](./Mosaic'21_PS1.pdf).<br>
+The task was to implement a Handwritten Hindi Word Recognizer with the maximum character set for the dialect.
 
 ## To-Do List
-- [ ] Image Classification
-  - [ ] Create a Dataset
-  - [ ] Preprocessing steps
-  - [ ] Add Augmentations
-  - [ ] Write Classification Model Code
-  - [ ] Train & Evaluate performance
-  - [ ] Increase size of character sets
-  - [ ] Increment Performance
 
-- [ ] Complete Pipeline
-  - [ ] Preprocess
-  - [ ] Segmentation
-  - [ ] Classification Inference 
-
-### Preprocessing list
-- [ ] CLAHE (Histogram equalisation)
-- [ ] Thresholding
-- [ ] Erosion, dilation
-- [ ] resize(28,28)
-
-
-### Augmentation List
-- [ ] rotate (-x to +x)
-- [ ] blurring
-- [ ] shear
-- [ ] brightness
-- [ ] zoom (optional)
+- [x] Complete Pipeline
+  - [x] Preprocess
+  - [x] Segmentation
+  - [x] Classification Inference

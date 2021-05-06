@@ -58,16 +58,28 @@ Link: http://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Da
 Contains **92,000 Images** belonging to 46 Devanagiri classes of 36 consonants and 10 digits from 0-9.
 Image Size : 32x32
 
+## Training Metrics & Snapshots
+|  |   |
+|----|----|
+|![Training Accuracy](images/train_acc.png)<br>Training Accuracy|![Training loss](images/train_loss.png)<br>Training Loss|
+|![validation Accuracy](images/valid_acc.png)<br>Validation Accuracy|![validation loss](images/valid_loss.png)<br>Validation Loss|
+ 
+
+
+## Our Team:
+<table>
+<tr>
+      <td align="center"><a href="https://github.com/lavish619"><img src="https://github.com/lavish619.png" width="100px;" height="100px;" alt="Lavish Bansal"/><br /><sub><b>Lavish Bansal</b></sub></a></td>
+      <td align="center"><a href="https://github.com/arch-raven"><img src="https://github.com/arch-raven.png" width="100px;" height="100px;" alt="Aditya Kumar"/><br /><sub><b>Aditya Kumar</b></a></td>
+      <td align="center"><a href="https://github.com/Ayush2k2"><img src="https://github.com/Ayush2k2.png" width="100px;" height="100px;" alt="Ayush Singh"/><br /><sub><b>Ayush Singh</b></sub></a></td>
+</tr>
+</table>
+
 
 <!-- ## Procedure
 
 ![Overall Pipeline](media/display-pipeline.png)
 <br>
-<br>
-
-## Training Metrics & Snapshots
-
-![YOLOv5 Mosaic](media/media_images_Validation_9_0.jpg)
 
 ## Acknowledgements
 
